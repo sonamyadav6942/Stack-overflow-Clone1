@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Stack-overflow-Clone1/static/css/main.d5126718.css",
+    "main.js": "/Stack-overflow-Clone1/static/js/main.860a2c45.js",
+    "static/media/Globe.svg": "/Stack-overflow-Clone1/static/media/Globe.b4c9a5d99220d0b4e3024a8106e27c49.svg",
+    "index.html": "/Stack-overflow-Clone1/index.html",
+    "static/media/search-solid.svg": "/Stack-overflow-Clone1/static/media/search-solid.06e310dbfbf3ab21da478aef6c037c14.svg",
+    "static/media/pen-solid.svg": "/Stack-overflow-Clone1/static/media/pen-solid.4b1bdc1c5a371fb72f1b580d52f8a87a.svg",
+    "static/media/blacklogo.svg": "/Stack-overflow-Clone1/static/media/blacklogo.e25e45afbd5f299111eb2182aab6feca.svg",
+    "static/media/comment-alt-solid.svg": "/Stack-overflow-Clone1/static/media/comment-alt-solid.7df3f00f8e0e47e451c3254d2d8c85c1.svg",
+    "static/media/sort-down.svg": "/Stack-overflow-Clone1/static/media/sort-down.903eaa19f8ed510bf2202ab80dbea7d5.svg",
+    "static/media/sort-up.svg": "/Stack-overflow-Clone1/static/media/sort-up.00d081851dcbaaf15930853fbdb312b6.svg",
+    "main.d5126718.css.map": "/Stack-overflow-Clone1/static/css/main.d5126718.css.map",
+    "main.860a2c45.js.map": "/Stack-overflow-Clone1/static/js/main.860a2c45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5126718.css",
+    "static/js/main.860a2c45.js"
+  ]
+}
