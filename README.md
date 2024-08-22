@@ -13,8 +13,8 @@ This project is a clone of Stack Overflow, designed to replicate the core featur
 ### Technologies Used
 
 - **Frontend:** React.js
-- **Backend:** [Node.js, Express]
-- **Database:** [MongoDB, SQL]
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, SQL
 
 ### Purpose
 
