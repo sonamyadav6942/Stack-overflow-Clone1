@@ -45,7 +45,11 @@ const AskQuestion = () => {
               <h4>Title</h4>
               <p>
                 Be specific and imagine you’re asking a question to another
+<<<<<<< HEAD
                 personss
+=======
+                person
+>>>>>>> 1c38d4eee3d4eb47221540dc3566cdf5e9e90f98
               </p>
               <input
                 type="text"

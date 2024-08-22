@@ -66,7 +66,10 @@ const HomeMainbar = () => {
     // }]
 
     const checkAuth = () => {
+<<<<<<< HEAD
         console.log('hello world')
+=======
+>>>>>>> 1c38d4eee3d4eb47221540dc3566cdf5e9e90f98
         if(user === null){
             alert("login or signup to ask a question")
             navigate('/Auth')

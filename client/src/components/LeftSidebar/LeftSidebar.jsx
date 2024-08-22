@@ -7,7 +7,11 @@ const LeftSidebar = () => {
     return (
         <div className='left-sidebar'>
             <nav className='side-nav'>
+<<<<<<< HEAD
                 <NavLink to='/' className='side-nav-links ' activeclassname='active'>
+=======
+                <NavLink to='/' className='side-nav-links' activeclassname='active'>
+>>>>>>> 1c38d4eee3d4eb47221540dc3566cdf5e9e90f98
                     <p>Home</p>
                 </NavLink>
                 <div className='side-nav-div'>
@@ -22,9 +26,12 @@ const LeftSidebar = () => {
                     <NavLink to='/Users' className='side-nav-links' activeclassname='active' style={{paddingLeft: "40px"}}>
                         <p>Users</p>
                     </NavLink>
+<<<<<<< HEAD
                     <NavLink to='/Companies' className='side-nav-links' activeclassname='active' style={{paddingLeft: "40px"}}>
                         <p>Comapnies</p>
                     </NavLink>
+=======
+>>>>>>> 1c38d4eee3d4eb47221540dc3566cdf5e9e90f98
                 </div>
             </nav>
         </div>

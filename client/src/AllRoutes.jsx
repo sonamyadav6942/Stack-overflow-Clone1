@@ -9,7 +9,12 @@ import DisplayQuestion from './pages/Questions/DisplayQuestion'
 import Tags from './pages/Tags/Tags'
 import Users from './pages/Users/Users'
 import UserProfile from './pages/UserProfile/UserProfile'
+<<<<<<< HEAD
 import Companies from './pages/Companies/Companies'
+=======
+
+
+>>>>>>> 1c38d4eee3d4eb47221540dc3566cdf5e9e90f98
 const AllRoutes = () => {
   return (
       <Routes>
@@ -21,7 +26,10 @@ const AllRoutes = () => {
           <Route path='/Tags' element={<Tags />} />
           <Route path='/Users' element={<Users />} />
           <Route path='/Users/:id' element={<UserProfile />} />
+<<<<<<< HEAD
           <Route path='/Companies' element={<Companies/>}/>
+=======
+>>>>>>> 1c38d4eee3d4eb47221540dc3566cdf5e9e90f98
       </Routes>
   )
 }
